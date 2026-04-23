@@ -1,5 +1,5 @@
 # Los Vinheteiros
-# Alarme de Monitoramento de Luminosidade com Arduino
+## Alarme de Monitoramento de Luminosidade com Arduino
 
 ## 📝 Descrição do Projeto
 Este projeto implementa um sistema de monitoramento de luz ambiente utilizando um Arduino e um sensor LDR (Fotoresistor). O sistema capta a luminosidade e a classifica em três níveis ("OK", "Alerta" e "Problema"), acionando indicadores visuais (LEDs) e sonoros (Buzzer) quando a luz ultrapassa limites pré-estabelecidos. A lógica principal é voltada para detectar o **excesso de luz**.
