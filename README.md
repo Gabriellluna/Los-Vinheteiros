@@ -81,6 +81,8 @@ O sistema agora rodará de forma autônoma. Tente simular uma variação de luz 
 
 ## Confira nosso projeto no seguinte repositório do Github: https://github.com/Gabriellluna/Los-Vinheteiros.git
 
+## Veja a simulação do nosso projeto: <video src="LINK_QUE_VOCÊ_COPIOU.mp4" controls width="100%"></video>  
+
 ## Integrantes
 Bruno Guilherme Gonçalves de Oliveira - 573697  
 Gabriel Cardoso de Sá Finzetto - 571846  
