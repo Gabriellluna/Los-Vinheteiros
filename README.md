@@ -79,9 +79,10 @@ O sistema agora rodará de forma autônoma. Tente simular uma variação de luz 
 ## 📌 Conclusão   
 * O projeto demonstra uma aplicação prática de sensores e atuadores com Arduino, permitindo monitoramento em tempo real e resposta automática. A utilização de técnicas como o millis() eleva a qualidade do código, permitindo que o sistema seja expansível para soluções de automação residencial e controle ambiental mais complexos.
 
-## Confira nosso projeto no seguinte repositório do Github: https://github.com/Gabriellluna/Los-Vinheteiros.git
-
-## Veja a simulação do nosso projeto: <video src="LINK_QUE_VOCÊ_COPIOU.mp4" controls width="100%"></video>  
+## 🔗 Links de Acesso: 
+* Simulação do Projeto: https://youtu.be/ZEsl1eut3a4?si=bSLsT3A6xP8mEI4t
+* Repositório do Projeto: https://github.com/Gabriellluna/Los-Vinheteiros.git
+* Projeto no Tinkercad: https://www.tinkercad.com/things/i2AnMePSk54-copy-of-brave-fulffy-rottis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=gtZqF_7yMD1d1-R0DdvCdow6YYuhgdcveQZqHEzXVGw
 
 ## Integrantes
 Bruno Guilherme Gonçalves de Oliveira - 573697  
