@@ -48,7 +48,7 @@ Monte o circuito na protoboard seguindo a tabela de pinagem acima. Tenha atenç�
 
 ### Passo 2: Configuração do Código
 1. Abra a Arduino IDE (ou a aba de código em "Texto" no Tinkercad).
-2. Cole o código fonte `main.ino` ou `sketch.ino` correspondente a este projeto.
+2. Cole o código fonte `alarme_luminosidade.ino` correspondente a este projeto.
 3. Conecte o Arduino na porta USB do computador.
 
 ### Passo 3: Calibração (Obrigatório)
