@@ -159,8 +159,8 @@ A solução pode ser expandida futuramente para aplicações como monitoramento 
 
 ## 🔗 Links de Acesso
 
-Simulação do Projeto: inserir link do vídeo ou demonstração  
-Repositório do Projeto: inserir link do GitHub  
+Simulação do Projeto: https://www.tinkercad.com/things/i2AnMePSk54-copy-of-brave-fulffy-rottis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=gtZqF_7yMD1d1-R0DdvCdow6YYuhgdcveQZqHEzXVGw
+Repositório do Projeto: https://github.com/Gabriellluna/Los-Vinheteiros  
 Projeto no Tinkercad: inserir link do Tinkercad  
 
 ---
