@@ -20,21 +20,21 @@ O sistema realiza a leitura da intensidade de luz no ambiente por meio de um sen
 - Luz média: ambiente em condição intermediária.
 - Luz alta: ambiente muito claro, podendo acionar alerta.
 
-A indicação é feita por meio dos LEDs, permitindo visualizar rapidamente a condição da luminosidade.
+A indicação é feita por meio dos LEDs e mensagens no LCD, permitindo visualizar rapidamente a condição da luminosidade. Em caso de luz alta, também há indicação sonora de condições adversas por meio do buzzer.
 
 ### Temperatura
 
 A temperatura é monitorada por um sensor analógico.  
 Quando a temperatura está dentro da faixa definida como ideal, o sistema permanece em condição normal.
 
-Caso a temperatura esteja muito alta ou muito baixa, o sistema identifica a situação como alerta e pode acionar o buzzer.
+Caso a temperatura esteja muito alta ou muito baixa, o sistema identifica a situação como alerta e aciona o buzzer.
 
 ### Umidade
 
 A umidade é simulada por meio de um potenciômetro, permitindo testar diferentes valores durante a execução do projeto.
 
 Quando a umidade está dentro da faixa adequada, o sistema indica condição normal.  
-Caso esteja acima ou abaixo do limite ideal, o sistema entra em estado de alerta.
+Caso esteja acima ou abaixo do limite ideal, o sistema entra em estado crítico.
 
 ### Alertas
 
@@ -43,7 +43,7 @@ O projeto utiliza LEDs e buzzer para indicar as condições do ambiente:
 - LED Verde: condição normal.
 - LED Amarelo: condição de atenção.
 - LED Vermelho: condição crítica ou fora do ideal.
-- Buzzer: alerta sonoro em situações problemáticas.
+- Buzzer: alerta sonoro em situações críticas.
 
 ---
 
