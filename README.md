@@ -86,6 +86,7 @@ A umidade controlada evita o ressecamento da rolha ou a proliferação de fungos
 ## 🔗 Links de Acesso
 * **Simulação Tinkercad:** [Clique Aqui](https://www.tinkercad.com/things/3He1tPOllec-sensor-de-luminosidadetemperaturaumidade/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)
 * **Repositório GitHub:** [Los-Vinheteiros](https://github.com/Gabriellluna/Los-Vinheteiros)
+* * **Vídeo no Youtube:** [Vídeo](https://youtu.be/Kw74fmqsVcA)
 
 ---
 
